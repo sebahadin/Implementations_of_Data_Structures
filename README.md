@@ -15,9 +15,6 @@ This repository contains C++ implementations of various fundamental data structu
   - [General Tree](#general-tree)
   - [Singly Linked List](#singly-linked-list)
   - [Hash Table](#hash-table)
-- [How to Compile and Run](#how-to-compile-and-run)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Data Structures
 
