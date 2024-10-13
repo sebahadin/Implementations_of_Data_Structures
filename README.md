@@ -1,4 +1,4 @@
-# Data Structures in C++
+# Data Structures Implementation in C++
 
 ## Overview
 This repository contains C++ implementations of various fundamental data structures. Each data structure is implemented from scratch and includes key operations like insertion, deletion, searching, and sorting. The aim is to provide a comprehensive resource for learning, testing, and applying data structures in real-world applications.
