@@ -64,8 +64,9 @@ A **Stack** follows the Last In, First Out (LIFO) principle. This implementation
 ---
 
 ### 7. Queue with Traffic Junction Simulation
-This implementation of a **Queue** uses a simulation of traffic junction management, where cars are processed in a First-In, First-Out (FIFO) order.
+The **Traffic Junction Simulation** is a practical demonstration of the **Queue** data structure, where cars arriving at a traffic junction are processed in a First-In, First-Out (FIFO) order. This simulation models real-world traffic flow, where the first car to arrive at a junction is the first to be allowed to pass, ensuring a fair and orderly system. The queue operates by enqueuing cars as they arrive and dequeuing them as they pass through the junction. The simulation efficiently handles the order of vehicles and can be extended to include more complex traffic behaviors such as multi-lane traffic, traffic lights, and priority-based systems.
 
+In this implementation, cars are added to the queue with a random or predefined arrival time, and the system processes them according to the order in which they arrived. The queue ensures that each car waits its turn and exits the system once processed. This simulation provides an effective way to understand how queues can be applied in real-world scenarios, such as traffic management, while demonstrating the efficiency of basic queue operations like enqueue, dequeue, and peek. The code can also be expanded to include additional features such as calculating wait times, handling varying traffic loads, or incorporating real-time data for more advanced traffic flow simulations.
 **Code:** [`Traffic_junction_simulation_queue_implementation.cpp`](./Traffic_junction_simulation_queue_implementation.cpp)
 
 ---
